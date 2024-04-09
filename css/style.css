@@ -149,4 +149,17 @@ img {
         width:100%;
     }
 
+    .steps{
+        margin-bottom: 0;
+    }
+
+    .why-us{
+        background-color: #222;
+        margin-bottom: 0;
+    }
+
+    .why-us h2{
+        padding-top: 30px;
+    }
+
  }
